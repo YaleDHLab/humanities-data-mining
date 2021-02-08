@@ -8,7 +8,14 @@ The course materials are published under a CC BY 3.0 US license. Attribution sho
 
 In our first week of class we will discuss some of the ways researchers from the humanities and beyond have used data mining, and we will take our first steps with the Python programming language.
 
-
 [**Slides**](https://docs.google.com/presentation/d/1W9NwnJdt28Q3iIa5D6CH5DEPj6Ct2zUoJyO345ivC_g/edit?usp=sharing)<br/>
-[**Notebook**](https://colab.research.google.com/drive/11o91nUdLqzzmdRAydfFoYtjk8nK4Pi8x?usp=sharing)<br/>
-[**Problem Set**](https://colab.research.google.com/drive/1GbQ0NPKuTU8Qf6hDaUPChRCbJ9CW5Bwj?usp=sharing)<br/>
+[**Notebook**](https://colab.research.google.com/drive/13s60tjYC5b6BvBcoRnzk6RZJoTtHvLE1?usp=sharing)<br/>
+[**Problem Set**](https://colab.research.google.com/drive/1igGn4rqrweJvvZ19CicnuLzj6Uz_XMzi?usp=sharing)<br/>
+
+### Week Two: Collecting Data from APIs
+
+In our second week of class we will take a deeper dive into data--what it is, how it's created, and how we can find and use it. In particular, we'll explore Application Programming Interfaces (APIs)--little machines that give us data to analyze!
+
+[**Slides**](https://docs.google.com/presentation/d/1Dl3BH10sis2ySWeNeX8f1j9AWhIqUilcKlU6Oqeo4kw/edit?usp=sharing)<br/>
+[**Notebook**](https://colab.research.google.com/drive/1TjJhjw1BhhYN6EfAL8c8TZ4-VrHoKfvJ?usp=sharing)<br/>
+[**Problem Set**](https://colab.research.google.com/drive/1PYYXuSlhJJhA4W55g2OW_9wftf-Ov2j9?usp=sharing)<br/>
