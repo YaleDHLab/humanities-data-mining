@@ -2,6 +2,10 @@
 
 We can use this glossary to keep track of technical words introduced in the course of the class. If there are words you'd like to add, please let us know!
 
+### Algorithms
+
+Algorithms are a set of instructions that tell the computer what to do and how to do it.
+
 ### Argument
 
 Arguments are the pieces of data we pass into a function. For example, consider the following code snippet:
@@ -27,6 +31,10 @@ corrected = my_name.replace('Jonathan', 'Taylor')
 ```
 
 We would say the code snippet above "calls" the replace method on `my_name`.
+
+### Corpus
+
+Corpus signifies a collection of texts. The word is often used in text mining to refer to all of the texts underlying a project.
 
 ### Declare
 
@@ -100,6 +108,10 @@ for word in words:
 
 The example above will pass each word in `words` to the indented lines underneath the for loop. In the example above, we simply print each word. In other examples, we might run more complicated operations on each item in the sequence provided to the loop.
 
+### Metadata
+
+Metadata is often described as "data about data." It might include, for example, information about an author or place of publication.
+
 ### Method
 
 Methods are functions that are defined on objects. As an example, we saw in week one that strings have various methods defined within them:
@@ -140,6 +152,10 @@ In general, we will use modules to help us run data processing and visualization
 
 The term "object" is one of the more abstract concepts we will encounter this semester. In Python, "everything is an object". This means that we can use the word "object" to refer to strings, lists, functions, as are plenty of other constructs we will encounter over the course of the semester.
 
+### Optical Character Recognition (OCR)
+
+OCR refers to the process of converting an image of a text into searchable text. The process can be error prone, depending on the quality of the image and typeface. It also works best with printed rather than handwritten materials. For OCR software, we recommend trying [Abbyy FineReader](https://pdf.abbyy.com/).
+
 ### Parameter
 
 The word "parameter" is used in the same way the word "argument" is used--both refer to the piece(s) of data that we pass into a function.
@@ -157,6 +173,10 @@ greeting_c = '''Hello!'''
 ```
 
 The three greetings above are all strings, and those strings are equivalent in value--the quotation marks you choose to use have no impact on the value of the string you define.
+
+### Tokenization
+
+Tokenization is the process of dividing a text (a sequence of strings) into meaningful units, such as words, phrases, chapters, etc. The resulting "tokens" are then used as input for data mining.
 
 ### Variable
 
