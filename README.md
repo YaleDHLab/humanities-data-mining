@@ -19,3 +19,9 @@ In our second week of class we will take a deeper dive into data--what it is, ho
 [**Slides**](https://docs.google.com/presentation/d/1Dl3BH10sis2ySWeNeX8f1j9AWhIqUilcKlU6Oqeo4kw/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/1TjJhjw1BhhYN6EfAL8c8TZ4-VrHoKfvJ?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1PYYXuSlhJJhA4W55g2OW_9wftf-Ov2j9?usp=sharing)<br/>
+
+### Week Three: Data Visualization
+
+In our third week will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate.  
+
+[**Slides**](https://docs.google.com/presentation/d/10hK_tJwJ_3YFe3cvkC2ma-AUeMVdyI0sihODv47Gb0M/edit?usp=sharing)<br/>
