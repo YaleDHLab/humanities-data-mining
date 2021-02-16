@@ -22,6 +22,6 @@ In our second week of class we will take a deeper dive into data--what it is, ho
 
 ### Week Three: Data Visualization
 
-In our third week will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate.  
+In our third week will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. For Thursday's lab, please download [Tableau Public](https://public.tableau.com/en-us/s/).   
 
 [**Slides**](https://docs.google.com/presentation/d/10hK_tJwJ_3YFe3cvkC2ma-AUeMVdyI0sihODv47Gb0M/edit?usp=sharing)<br/>
