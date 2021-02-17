@@ -24,7 +24,7 @@ For our dataset, we need to change the "Year" column from a numeric value to a d
 
 4. To begin working with our data, click on the orange "Sheet 1" rectangle toward the bottom left-hand corner of the application. This will create our first Tableau worksheet, a blank space for generating visualizations.
 
-![Button for New Worksheet](https://github.com/cderose/Slides-Syllabi-Workshops/blob/master/tableau-workshop/image/tableauNewWorksheet.png)
+![Button for New Worksheet](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/image/tableauNewWorksheet.png)
 
 ### Interface Changes
 Tableau version 2020.2 underwent major interface and functionality changes. You can read about all of the differences on [Tableau's website](https://help.tableau.com/current/pro/desktop/en-us/datasource_datamodel_whatschanged.htm). Below, I will describe the most notable differences you'll see from the main interface.
@@ -106,7 +106,7 @@ In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the m
 - For URL, add: "https://en.wikipedia.org/wiki/" and then click on the triangle button and select "Country."
 - Click "Test Link" to see if it's working.
 - Click "Ok" and "Ok" again to add the action.
-- Hover on any data point in the dashboard, and the Wikipedia page should automatically update to reflect the country that's selected. ![Dashboard View](https://github.com/cderose/Slides-Syllabi-Workshops/blob/master/tableau-workshop/image/tableauDashboard.png)
+- Hover on any data point in the dashboard, and the Wikipedia page should automatically update to reflect the country that's selected. ![Dashboard View](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/image/tableauDashboard.png)
 
 ### Save Your Work
 To save your Tableau workbook, you have to create a free Tableau account. When you click save, you will be prompted to log in and save your workbook to Tableau's server, where it will be visible on Tableau Public. Users can interact with your workbook on Tableau Public, or they could download, add to, or otherwise edit it.
