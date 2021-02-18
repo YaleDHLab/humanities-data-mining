@@ -91,7 +91,7 @@ In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the m
 - Korea to South Korea.
 5. Drag "Internet users" over the "Color" mark, which will shade each country according to the number of internet users—by default, Tableau will again aggregate this count.
 6. To filter by year while also adding animation to the map, drag "Year" to "Pages" (instead of "Filter").
-7. Let's give the map a title. Delete sheet name (but keep "<Page Name>") and add: "Internet Users per 100 People in:" before the "<Page Name>," which will automatically fill in the title with whatever year is selected.
+7. Let's give the map a title. Delete sheet name (but keep "Page Name") and add: "Internet Users per 100 People in:" before the "Page Name", which will automatically fill in the title with whatever year is selected.
 8. Rename the sheet to "map."
 
 ### Data Dashboard: Combine Visualizations Together
