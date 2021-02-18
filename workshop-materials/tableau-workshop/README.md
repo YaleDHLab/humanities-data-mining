@@ -59,7 +59,7 @@ Tableau is summing all values that correspond with an "Iceland" row, regardless 
 - Click the "All" box.
 - Click "Ok." It will look like nothing happened.
 - To set the filter, click on the dropdown by "YEAR(Year)," and select "Show Filter." This will show the filter settings in the right-hand column (you may have to click off "Show Me" to see it).
-- In the right-hand column, click the dropdown by "YEAR(Year)," and select "Single Value (list)" to filter one year at a time.
+- In the right-hand column, click the dropdown by "YEAR(Year)," and select "Single Value (list)" to filter one year at a time.  
 6. We can now answer our starting questions. Which 5 countries had the most internet users per 100 people in 1990? Which 5 countries had the most in 2015?
 <details><summary>Answer</summary>
 <p>
@@ -84,13 +84,13 @@ In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the m
 ### Map: Internet Users by Country
 1. Start a new sheet.
 2. Double-click on the "Country" pill, which will automatically generate a map.
-4. Click to turn on "Show Me" and select the second map, which we will use to generate a choropleth map.
-5. Notice that not all countries are filled in on the map. Click on "3 unknown" in the lower right-hand corner of the map to give Tableau a mapping between country names as they appear in our dataset, and country names that Tableau knows. 
+3. Click to turn on "Show Me" and select the second map, which we will use to generate a choropleth map.
+4. Notice that not all countries are filled in on the map. Click on "3 unknown" in the lower right-hand corner of the map to give Tableau a mapping between country names as they appear in our dataset, and country names that Tableau knows. 
 - Dem. People's Rep. Korea to North Korea,
 - Dem. Rep. Congo to Democratic Republic of Congo,
 - Korea to South Korea.
-6. Drag "Internet users" over the "Color" mark, which will shade each country according to the number of internet users—by default, Tableau will again aggregate this count.
-7. To filter by year while also adding animation to the map, drag "Year" to "Pages" (instead of "Filter").
+5. Drag "Internet users" over the "Color" mark, which will shade each country according to the number of internet users—by default, Tableau will again aggregate this count.
+6. To filter by year while also adding animation to the map, drag "Year" to "Pages" (instead of "Filter").
 7. Let's give the map a title. Delete sheet name (but keep "<Page Name>") and add: "Internet Users per 100 People in:" before the "<Page Name>," which will automatically fill in the title with whatever year is selected.
 8. Rename the sheet to "map."
 
