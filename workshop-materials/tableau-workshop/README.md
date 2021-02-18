@@ -59,7 +59,7 @@ Tableau is summing all values that correspond with an "Iceland" row, regardless 
 - Click the "All" box.
 - Click "Ok." It will look like nothing happened.
 - To set the filter, click on the dropdown by "YEAR(Year)," and select "Show Filter." This will show the filter settings in the right-hand column (you may have to click off "Show Me" to see it).
-- In the right-hand column, click the dropdown by "YEAR(Year)," and select "Single Value (list)" to filter one year at a time.  
+- In the right-hand column, click the dropdown by "YEAR(Year)," and select "Single Value (list)" to filter one year at a time.</br>
 6. We can now answer our starting questions. Which 5 countries had the most internet users per 100 people in 1990? Which 5 countries had the most in 2015?
 <details><summary>Answer</summary>
 <p>
