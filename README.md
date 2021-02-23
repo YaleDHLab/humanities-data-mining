@@ -22,8 +22,18 @@ In our second week of class we will take a deeper dive into data--what it is, ho
 
 ### Week Three: Data Visualization
 
-In our third week will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. For Thursday's lab, please download [Tableau Public](https://public.tableau.com/en-us/s/).   
+In our third week we will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. For Thursday's lab, please download [Tableau Public](https://public.tableau.com/en-us/s/).   
 
 [**Slides**](https://docs.google.com/presentation/d/10hK_tJwJ_3YFe3cvkC2ma-AUeMVdyI0sihODv47Gb0M/edit?usp=sharing)<br/>
 [**Notebook**](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/README.md)<br/>
-No Problem Set this week! Work on Project Review 1: Text Mining. You can find the prompt in Canvas under "Assignments."  
+No Problem Set this week! Work on Project Review 1: Text Mining. You can find the prompt in Canvas under "Assignments."<br/>
+
+### Week Four: Text Analysis: Named Entity Recognition
+
+In our fourth week we will begin turning our attention to text analysis in more detail. In particular, we will experiment with an approach called named entity recognition, which can help us extract entities (names, locations, organizations) from text.  
+
+[**Slides**](https://docs.google.com/presentation/d/1YvE_UPaMkkEyq2ULizseRM66LV-4ntQn-0BVrKtO0lY/edit?usp=sharing)<br/>
+[**Notebook**](https://colab.research.google.com/drive/10ZdzRUcc2pT93u0kLNJt3ZdAUNCNgf_K?usp=sharing)<br/>
+[**Problem Set**](https://colab.research.google.com/drive/1sY1FSCOXCSR9wnAI8AhzqvGdWQGug7k0?usp=sharing)<br/>
+
+
