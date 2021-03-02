@@ -36,4 +36,8 @@ In our fourth week we will begin turning our attention to text analysis in more 
 [**Notebook**](https://colab.research.google.com/drive/10ZdzRUcc2pT93u0kLNJt3ZdAUNCNgf_K?usp=sharing)<br/>
 [**Optional Problem Set**](https://colab.research.google.com/drive/1sY1FSCOXCSR9wnAI8AhzqvGdWQGug7k0?usp=sharing)<br/>
 
+### Week Five: Clustering and Classification
 
+In our fifth week we will explore supervised methods for classifying and clustering data using Python. We will consider when such approaches could be helpful, as well as what the limitations are and what kind of data we need to have.
+
+[**Slides**](https://docs.google.com/presentation/d/1qerfYY6o9_JTINxLLDSZKIBsUEoOoVBt61FwVuaVCYU/edit?usp=sharing)<br/>
