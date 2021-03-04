@@ -22,7 +22,7 @@ In our second week of class we will take a deeper dive into data--what it is, ho
 
 ### Week Three: Data Visualization
 
-In our third week we will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. For Thursday's lab, please download [Tableau Public](https://public.tableau.com/en-us/s/).   
+In our third week we will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. For Thursday's lab, please download [Tableau Public](https://public.tableau.com/en-us/s/).
 
 [**Slides**](https://docs.google.com/presentation/d/10hK_tJwJ_3YFe3cvkC2ma-AUeMVdyI0sihODv47Gb0M/edit?usp=sharing)<br/>
 [**Notebook**](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/README.md)<br/>
@@ -30,7 +30,7 @@ No Problem Set this week! Work on Project Review 1: Text Mining. You can find th
 
 ### Week Four: Text Analysis: Named Entity Recognition
 
-In our fourth week we will begin turning our attention to text analysis in more detail. In particular, we will experiment with an approach called named entity recognition, which can help us extract entities (names, locations, organizations) from text.  
+In our fourth week we will begin turning our attention to text analysis in more detail. In particular, we will experiment with an approach called named entity recognition, which can help us extract entities (names, locations, organizations) from text.
 
 [**Slides**](https://docs.google.com/presentation/d/1YvE_UPaMkkEyq2ULizseRM66LV-4ntQn-0BVrKtO0lY/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/10ZdzRUcc2pT93u0kLNJt3ZdAUNCNgf_K?usp=sharing)<br/>
@@ -41,3 +41,5 @@ In our fourth week we will begin turning our attention to text analysis in more 
 In our fifth week we will explore supervised methods for classifying and clustering data using Python. We will consider when such approaches could be helpful, as well as what the limitations are and what kind of data we need to have.
 
 [**Slides**](https://docs.google.com/presentation/d/1qerfYY6o9_JTINxLLDSZKIBsUEoOoVBt61FwVuaVCYU/edit?usp=sharing)<br/>
+[**Notebook**](https://colab.research.google.com/drive/14K7ITjIvNB0mEGBpWh8AvMPviTLoD4y2?usp=sharing)<br/>
+[**Problem Set**](https://colab.research.google.com/drive/1TXmg8OgUyoJhBKu5xJNEJPWEAJysWCJ8?usp=sharing)<br/>
