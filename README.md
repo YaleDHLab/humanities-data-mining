@@ -43,3 +43,9 @@ In our fifth week we will explore supervised methods for classifying and cluster
 [**Slides**](https://docs.google.com/presentation/d/1qerfYY6o9_JTINxLLDSZKIBsUEoOoVBt61FwVuaVCYU/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/14K7ITjIvNB0mEGBpWh8AvMPviTLoD4y2?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1TXmg8OgUyoJhBKu5xJNEJPWEAJysWCJ8?usp=sharing)<br/>
+
+### Week Six: Review!
+
+In our sixth week we will review several of the programming topics we have covered so far in the semester, and we'll explore a few new topics that will prove useful as we continue our data science work in the coming weeks.
+
+[**Notebook**](https://colab.research.google.com/drive/1xbQebx6f5tabjqJs9rOInxs2XG6HSPQm?usp=sharing)<br/>
