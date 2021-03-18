@@ -54,6 +54,6 @@ In our sixth week we will review several of the programming topics we have cover
 
 In our seventh week we will learn about topic modeling by looking at case studies and experimenting with model parameters. The particular approach we'll be using is called non-negative matrix factorization (NMF), which like the classifier we trained in week five, starts with a Term-Document Matrix.
 
-[**Slides**](https://docs.google.com/presentation/d/1igf2E6DuUwL8kTHKsOPEJlcLZzIuXpHc0QPjvczjv2Q/edit?usp=sharing)
-[**Notebook**](https://colab.research.google.com/drive/1emPAuctrYHkOjx92kAkmql0tmlrV-wtI?usp=sharing)
-[**Problem Set**](https://colab.research.google.com/drive/1ffGWP-9CI092oETqdJxe35eG4xYYNssO?usp=sharing)
+[**Slides**](https://docs.google.com/presentation/d/1igf2E6DuUwL8kTHKsOPEJlcLZzIuXpHc0QPjvczjv2Q/edit?usp=sharing)<br/>
+[**Notebook**](https://colab.research.google.com/drive/1emPAuctrYHkOjx92kAkmql0tmlrV-wtI?usp=sharing)<br/>
+[**Problem Set**](https://colab.research.google.com/drive/1ffGWP-9CI092oETqdJxe35eG4xYYNssO?usp=sharing)<br/>
