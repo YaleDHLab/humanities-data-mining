@@ -58,7 +58,7 @@ In our seventh week we will learn about topic modeling by looking at case studie
 [**Notebook**](https://colab.research.google.com/drive/1emPAuctrYHkOjx92kAkmql0tmlrV-wtI?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1ffGWP-9CI092oETqdJxe35eG4xYYNssO?usp=sharing)<br/>
 
-### Week : Text & Image Analysis: Neural Networks
+### Week Eight: Text & Image Analysis: Neural Networks
 
 In our eighth week we will begin our transition from text mining to image mining techniques by way of neural networks. On Thursday, we will focus on word embeddings, a technique for identifying words that appear in similar contexts.
 
