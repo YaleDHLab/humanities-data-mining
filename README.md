@@ -62,4 +62,6 @@ In our seventh week we will learn about topic modeling by looking at case studie
 
 In our eighth week we will begin our transition from text mining to image mining techniques by way of neural networks. On Thursday, we will focus on word embeddings, a technique for identifying words that appear in similar contexts.
 
-[**Slides**](https://docs.google.com/presentation/d/1rGTACVTCKt6iMkgAytqnzot7qMAS973VrvFPuyLV1wg/edit?usp=sharing)
+[**Slides**](https://docs.google.com/presentation/d/1rGTACVTCKt6iMkgAytqnzot7qMAS973VrvFPuyLV1wg/edit?usp=sharing)<br/>
+[**Notebook**](https://colab.research.google.com/drive/1WEwQoMLfmBAJJfgSneOikyOncdR-ThQu?usp=sharing)<br/>
+[**Problem Set**](https://colab.research.google.com/drive/1o6E2M9yfNNnzzqmwEk8ycH3YveMpIQQt?usp=sharing)<br/>
