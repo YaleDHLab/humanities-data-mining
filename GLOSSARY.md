@@ -148,6 +148,14 @@ The example above "imports" (or makes available to our program) the `collections
 
 In general, we will use modules to help us run data processing and visualization tasks. We'll see plenty of examples of modules throughout the semester, and we will interact with those modules by using the `import` statement to load the modules into our programs.
 
+### Named Entity Recognition
+
+Named entity recognition, often abbreviated to NER, describes the algorithmic process of extracting entities (people, places, organizations, temporal references) from texts. In class, we used Stanford's [Stanza](https://stanfordnlp.github.io/stanza/ner.html) package to run NER.
+
+### Neural Networks
+
+Neural networks are a subset of machine learning. They are programs that identify some internal numbers (or model weights) that, when plugged into the model's internal formula, minimize the difference between the model's output and the value the model should predict.
+
 ### Object
 
 The term "object" is one of the more abstract concepts we will encounter this semester. In Python, "everything is an object". This means that we can use the word "object" to refer to strings, lists, functions, as are plenty of other constructs we will encounter over the course of the semester.
@@ -174,9 +182,17 @@ greeting_c = '''Hello!'''
 
 The three greetings above are all strings, and those strings are equivalent in value--the quotation marks you choose to use have no impact on the value of the string you define.
 
+### Term-Document Matrix
+
+A Term-Document Matrix is a matrix where each row represents a term and each column represents a document. Each cell value therein represents the number of times the given term occurs in the given document.
+
 ### Tokenization
 
 Tokenization is the process of dividing a text (a sequence of strings) into meaningful units, such as words, phrases, chapters, etc. The resulting "tokens" are then used as input for data mining.
+
+### Topic Modeling
+
+Topic modeling is a technique to identify latent topics (sometimes referred to as discourses) in a collection of texts. 
 
 ### Variable
 
@@ -187,3 +203,8 @@ author = 'Lewis Carroll'
 ```
 
 In the line above, `author` is our variable, and `'Lewis Carroll'` is the value assigned to that variable.
+
+### Word Embeddings / Word Vectors
+
+Word embeddings (also called word vectors) are data structures that map sequences of alphabetic characters ("words") to lists of numbers ("vectors"). We use word embeddings to identify words that are used in similar contexts.
+
