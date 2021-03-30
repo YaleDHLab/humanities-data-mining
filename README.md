@@ -65,3 +65,9 @@ In our eighth week we will begin our transition from text mining to image mining
 [**Slides**](https://docs.google.com/presentation/d/1rGTACVTCKt6iMkgAytqnzot7qMAS973VrvFPuyLV1wg/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/1WEwQoMLfmBAJJfgSneOikyOncdR-ThQu?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1o6E2M9yfNNnzzqmwEk8ycH3YveMpIQQt?usp=sharing)<br/>
+
+### Week Nine: Computer Vision: Color & Art
+
+In our ninth week we will start looking more closely at image mining, with an overview of projects, techniques, and data considerations. For hands-on practice, we will experiment with color extraction.
+
+[**Slides](https://docs.google.com/presentation/d/1Ndz0hvjppo_oxIUPPpsevhYd7MWjYHaYwGVTsmgUgnw/edit?usp=sharing)
