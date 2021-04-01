@@ -70,4 +70,6 @@ In our eighth week we will begin our transition from text mining to image mining
 
 In our ninth week we will start looking more closely at image mining, with an overview of projects, techniques, and data considerations. For hands-on practice, we will experiment with color extraction.
 
-[**Slides**](https://docs.google.com/presentation/d/1Ndz0hvjppo_oxIUPPpsevhYd7MWjYHaYwGVTsmgUgnw/edit?usp=sharing)
+[**Slides**](https://docs.google.com/presentation/d/1Ndz0hvjppo_oxIUPPpsevhYd7MWjYHaYwGVTsmgUgnw/edit?usp=sharing)<br/>
+[**Notebook**](https://colab.research.google.com/drive/1e_0CA3Pa44DkimQX5QE_Y-gWvDx-qGoI?usp=sharing)<br/>
+[**Optional Problem Set**](https://colab.research.google.com/drive/12P9WsbVG4ra4YQAn98Oti8jbxhwltN5R?usp=sharing)<br/>
