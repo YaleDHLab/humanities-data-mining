@@ -80,3 +80,4 @@ In our tenth week, we will be discussing techniques for measuring and identifyin
 
 [**Slides**](https://docs.google.com/presentation/d/1lH1Rnb_lrYx7jOlOrnBwUb5nItZobNewLNnymxouGB4/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/16Ns9-KV1q1zskknWF9VQ98SZaABxSa0N?usp=sharing)<br/>
+[**Optional Problem Set**](https://colab.research.google.com/drive/1EQUP984N7rqk308Qa3WfbBjNK-AWlgZa?usp=sharing)<br/>
