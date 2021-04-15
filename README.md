@@ -81,3 +81,9 @@ In our tenth week, we will be discussing techniques for measuring and identifyin
 [**Slides**](https://docs.google.com/presentation/d/1lH1Rnb_lrYx7jOlOrnBwUb5nItZobNewLNnymxouGB4/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/16Ns9-KV1q1zskknWF9VQ98SZaABxSa0N?usp=sharing)<br/>
 [**Optional Problem Set**](https://colab.research.google.com/drive/1EQUP984N7rqk308Qa3WfbBjNK-AWlgZa?usp=sharing)<br/>
+
+### Week 11: Video Analaysis
+
+In our eleventh week, we will look at methods for video (or moving image) analysis and consider when, why, and how we might go about it. As a capstone to our image analysis module, we will learn how to train two neural networks for computer vision tasks: autoencoders and Recurrent Neural Networks. 
+
+[**Slides**](https://docs.google.com/presentation/d/13o3YdHvxkosFMrytLbbh52laT6W9-gLgrIQrOcShFJk/edit#slide=id.gcee1d5962e_0_0)<br/>
