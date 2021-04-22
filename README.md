@@ -94,5 +94,5 @@ No Problem Set this week! Instead, you may wish to focus on identifying some dat
 
 In our twelfth week, we will begin our open lab sessions, which are designed to pull together the material from the course while giving you time to work on your final projects. For our first open lab, we will discuss pathways for finding and preparing data.
 
-[**Slides**](https://docs.google.com/presentation/d/1YFl41mAJj7_TBF2RZkesbrprfP5_vCj41xWn-GwnTDg/edit#slide=id.gd382aa6a5e_0_0)
+[**Slides**](https://docs.google.com/presentation/d/1YFl41mAJj7_TBF2RZkesbrprfP5_vCj41xWn-GwnTDg/edit#slide=id.gd382aa6a5e_0_0)<br/>
 [**Notebook**](https://colab.research.google.com/drive/1XAelNBAMNVOzKfKapKxBTmbULWWXf4oq?usp=sharing)
