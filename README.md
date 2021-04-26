@@ -96,3 +96,9 @@ In our twelfth week, we will begin our open lab sessions, which are designed to 
 
 [**Slides**](https://docs.google.com/presentation/d/1YFl41mAJj7_TBF2RZkesbrprfP5_vCj41xWn-GwnTDg/edit#slide=id.gd382aa6a5e_0_0)<br/>
 [**Notebook**](https://colab.research.google.com/drive/1XAelNBAMNVOzKfKapKxBTmbULWWXf4oq?usp=sharing)
+
+### Week 13: Open Labs 2 & 3, Analyzing and Visualizing Data
+
+In our thirtienth week, we will continue bringing the course material together by discussing how to identify an appropriate method based on your research question and available data. We will also review strategies for visualizing and sharing results. 
+
+[**Analysis Slides**](https://docs.google.com/presentation/d/1-ICaxfz3QMTEULBm7pCiQFxHm89JEdsVM4YAfR2T0TM/edit?usp=sharing)
