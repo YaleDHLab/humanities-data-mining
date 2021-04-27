@@ -11,7 +11,7 @@ In our first week, of class we will discuss some of the ways researchers from th
 [**Slides**](https://docs.google.com/presentation/d/1W9NwnJdt28Q3iIa5D6CH5DEPj6Ct2zUoJyO345ivC_g/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/13s60tjYC5b6BvBcoRnzk6RZJoTtHvLE1?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1igGn4rqrweJvvZ19CicnuLzj6Uz_XMzi?usp=sharing)<br/>
-[**Completed Problem Set**](https://colab.research.google.com/drive/1VdvgKUsmVvcKqSSe9eGI8EdBWh4MKH_0?usp=sharing)
+[**AG's Completed Problem Set**](https://colab.research.google.com/drive/1VdvgKUsmVvcKqSSe9eGI8EdBWh4MKH_0?usp=sharing)
 
 ### Week Two: Collecting Data from APIs
 
@@ -20,6 +20,7 @@ In our second week, of class we will take a deeper dive into data--what it is, h
 [**Slides**](https://docs.google.com/presentation/d/1Dl3BH10sis2ySWeNeX8f1j9AWhIqUilcKlU6Oqeo4kw/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/1TjJhjw1BhhYN6EfAL8c8TZ4-VrHoKfvJ?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1PYYXuSlhJJhA4W55g2OW_9wftf-Ov2j9?usp=sharing)<br/>
+[**AG's Completed Problem Set**](https://colab.research.google.com/drive/1KaQCKAb2ha3yX_DyvBk_D3HdzHevCi4h?usp=sharing)
 
 ### Week Three: Data Visualization
 
