@@ -68,6 +68,7 @@ In our eighth week, we will begin our transition from text mining to image minin
 [**Slides**](https://docs.google.com/presentation/d/1rGTACVTCKt6iMkgAytqnzot7qMAS973VrvFPuyLV1wg/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/1WEwQoMLfmBAJJfgSneOikyOncdR-ThQu?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1o6E2M9yfNNnzzqmwEk8ycH3YveMpIQQt?usp=sharing)<br/>
+[**AG's Completed Problem Set**](https://colab.research.google.com/drive/1Z36e4TY-9RjH7DZ1X8b_IKuGX5S2TG8H?usp=sharing)
 
 ### Week Nine: Computer Vision: Color & Art
 
