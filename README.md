@@ -37,6 +37,7 @@ In our fourth week, we will begin turning our attention to text analysis in more
 [**Slides**](https://docs.google.com/presentation/d/1YvE_UPaMkkEyq2ULizseRM66LV-4ntQn-0BVrKtO0lY/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/10ZdzRUcc2pT93u0kLNJt3ZdAUNCNgf_K?usp=sharing)<br/>
 [**Optional Problem Set**](https://colab.research.google.com/drive/1sY1FSCOXCSR9wnAI8AhzqvGdWQGug7k0?usp=sharing)<br/>
+[**AG's Completed Problem Set**](https://colab.research.google.com/drive/1t_rwwMhcFPGsqMlw6Lwpcxb9hY3tX5RU?usp=sharing)
 
 ### Week Five: Clustering and Classification
 
