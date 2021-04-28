@@ -106,3 +106,4 @@ In our twelfth week, we will begin our open lab sessions, which are designed to 
 In our thirtienth week, we will continue bringing the course material together by discussing how to identify an appropriate method based on your research question and available data. We will also review strategies for visualizing and sharing results. 
 
 [**Analysis Slides**](https://docs.google.com/presentation/d/1-ICaxfz3QMTEULBm7pCiQFxHm89JEdsVM4YAfR2T0TM/edit?usp=sharing)
+[**Visualization Slides**](https://docs.google.com/presentation/d/17PJgDFTz9qfzvHjRok6oX0gnOB6YN9TZZa2jO2ICxho/edit?usp=sharing)
