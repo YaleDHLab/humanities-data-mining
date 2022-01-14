@@ -42,35 +42,33 @@ In our fifth week, we will explore supervised methods for classifying and cluste
 [**Notebook**](https://colab.research.google.com/drive/14K7ITjIvNB0mEGBpWh8AvMPviTLoD4y2?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1TXmg8OgUyoJhBKu5xJNEJPWEAJysWCJ8?usp=sharing)<br/>
 
-### Week Six: Review!
+### Week Six: Review and Topic Modeling 
 
-In our sixth week, we will review several of the programming topics we have covered so far in the semester, and we'll explore a few new topics that will prove useful as we continue our data science work in the coming weeks.
+In our sixth week, we will review several of the programming topics we have covered so far in the semester, and we'll explore a few new topics that will prove useful as we continue our data science work in the coming weeks. We will learn about topic modeling by looking at case studies and experimenting with model parameters. The particular approach we'll be using is called non-negative matrix factorization (NMF), which like the classifier we trained in week five, starts with a Term-Document Matrix.
 
-[**Notebook**](https://colab.research.google.com/drive/1xbQebx6f5tabjqJs9rOInxs2XG6HSPQm?usp=sharing)<br/>
+[**Review Notebook**](https://colab.research.google.com/drive/1xbQebx6f5tabjqJs9rOInxs2XG6HSPQm?usp=sharing)<br/>
 
-### Week Seven: Topic Modeling
-
-In our seventh week, we will learn about topic modeling by looking at case studies and experimenting with model parameters. The particular approach we'll be using is called non-negative matrix factorization (NMF), which like the classifier we trained in week five, starts with a Term-Document Matrix.
-
-[**Slides**](https://docs.google.com/presentation/d/1igf2E6DuUwL8kTHKsOPEJlcLZzIuXpHc0QPjvczjv2Q/edit?usp=sharing)<br/>
-[**Notebook**](https://colab.research.google.com/drive/1emPAuctrYHkOjx92kAkmql0tmlrV-wtI?usp=sharing)<br/>
+[**Topic Modeling Slides**](https://docs.google.com/presentation/d/1igf2E6DuUwL8kTHKsOPEJlcLZzIuXpHc0QPjvczjv2Q/edit?usp=sharing)<br/>
+[**Topic Modeling Notebook**](https://colab.research.google.com/drive/1emPAuctrYHkOjx92kAkmql0tmlrV-wtI?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1ffGWP-9CI092oETqdJxe35eG4xYYNssO?usp=sharing)<br/>
 
-### Week Eight: Text & Image Analysis: Neural Networks
+### Week Seven: Text & Image Analysis: Neural Networks
 
-In our eighth week, we will begin our transition from text mining to image mining techniques by way of neural networks. On Thursday, we will focus on word embeddings, a technique for identifying words that appear in similar contexts.
+In our seventh week, we will begin our transition from text mining to image mining techniques by way of neural networks. On Thursday, we will focus on word embeddings, a technique for identifying words that appear in similar contexts.
 
 [**Slides**](https://docs.google.com/presentation/d/1rGTACVTCKt6iMkgAytqnzot7qMAS973VrvFPuyLV1wg/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/1WEwQoMLfmBAJJfgSneOikyOncdR-ThQu?usp=sharing)<br/>
 [**Problem Set**](https://colab.research.google.com/drive/1o6E2M9yfNNnzzqmwEk8ycH3YveMpIQQt?usp=sharing)<br/>
 
-### Week Nine: Computer Vision: Color & Art
+### Week Eight: Computer Vision: Color & Art 
 
-In our ninth week, we will start looking more closely at image mining, with an overview of projects, techniques, and data considerations. For hands-on practice, we will experiment with color extraction.
+In our eighth week, we will start looking more closely at image mining, with an overview of projects, techniques, and data considerations. For hands-on practice, we will experiment with color extraction.
 
 [**Slides**](https://docs.google.com/presentation/d/1Ndz0hvjppo_oxIUPPpsevhYd7MWjYHaYwGVTsmgUgnw/edit?usp=sharing)<br/>
 [**Notebook**](https://colab.research.google.com/drive/1e_0CA3Pa44DkimQX5QE_Y-gWvDx-qGoI?usp=sharing)<br/>
 [**Optional Problem Set**](https://colab.research.google.com/drive/12P9WsbVG4ra4YQAn98Oti8jbxhwltN5R?usp=sharing)<br/>
+
+### Week Nine: Spring Recess
 
 ### Week 10: Visual Similarity
 
