@@ -2,7 +2,7 @@
 
 This repository contains materials for YData: Humanities Data Mining (S&DS 176 / S&DS 576), taught in the Spring of 2022 at Yale University. For more information on the course, please consult the preliminary  [**syllabus**](https://github.com/YaleDHLab/humanities-data-mining/blob/master/YDATA-HumanitiesDataMiningSpring2022.pdf) or the course materials below (please note that some materials require a Yale NetID for access).
 
-You can also view the syllabus from the first year the class was taught, [Spring 2021](https://github.com/YaleDHLab/humanities-data-mining/blob/master/Fall-2021.md).
+You can also view the syllabus from the first year the class was taught, [Spring 2021](https://github.com/YaleDHLab/humanities-data-mining/blob/master/Spring-2021.md).
 
 ### Week One: Introduction to Data Mining
 
