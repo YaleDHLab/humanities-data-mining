@@ -9,6 +9,9 @@ You can also view the syllabus from the first year the class was taught, [Spring
 In our first week, of class we will discuss some of the ways researchers from the humanities and beyond have used data mining, and we will take our first steps with the Python programming language.
 
 [**Slides**](https://docs.google.com/presentation/d/1kIM6ts5PnacRHk0YdGWvMY4ecgSnrTD32cdMUjjU2Hk/edit?usp=sharing)<br/>
+**Readings**<br>
+* Michael Witmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
+* Ted Underwood, “[Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)”
 
 ### Week Two: Collecting Data from APIs
 
