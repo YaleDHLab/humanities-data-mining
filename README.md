@@ -12,6 +12,7 @@ In our first week, of class we will discuss some of the ways researchers from th
 **Readings**<br>
 * Michael Witmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
 * Ted Underwood, “[Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)”
+[**Notebook**](https://colab.research.google.com/drive/1ynzXjh0hKbdJIj0LtQuPFn-SaCWY3rPi?usp=sharing) 
 
 ### Week Two: Collecting Data from APIs
 
