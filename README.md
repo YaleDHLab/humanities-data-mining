@@ -18,6 +18,12 @@ In our first week, of class we will discuss some of the ways researchers from th
 
 In our second week, of class we will take a deeper dive into data--what it is, how it's created, and how we can find and use it. In particular, we'll explore Application Programming Interfaces (APIs)--little machines that give us data to analyze!
 
+[**Tuesday Slides**](https://docs.google.com/presentation/d/1nqA0TBXOnypuXMFtO4x6huMVGFabx41VT9Bd62fmT2s/edit?usp=sharing)<br/>
+**Readings**<br/>
+* Christof Schöch, &ldquo;<a class="inline_disabled" href="http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/" target="_blank" rel="noopener noreferrer">Big? Smart?&nbsp; Clean? Messy? Data in the Humanities</a>&rdquo;
+* Johanna Drucker, &ldquo;<a class="inline_disabled" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/757C1225CFDCF629FC2895C76DD747B0/S0030812900116098a.pdf/why-distant-reading-isnt.pdf" target="_blank" rel="noopener noreferrer">Why Distant Reading Isn&rsquo;t</a>&rdquo;<span style="font-size: 8pt;"> (VPN or on-campus network needed)</span>
+
+
 ### Week Three: Data Visualization
 
 In our third week, we will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. For Thursday's lab, please download [Tableau Public](https://public.tableau.com/en-us/s/).
