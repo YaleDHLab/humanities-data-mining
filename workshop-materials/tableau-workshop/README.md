@@ -22,7 +22,7 @@ As a sample research scenario, let's imagine that someone just handed us this da
  
 For our dataset, we need to change the "Year" column from a numeric value to a date. To do so, click on the hash symbol above "Year" and select "Date." You should notice that all of our years now also have a month and day prefixed to them; by default, Tableau treats dates as month-day-year, so it adds a generic 1/1/ to the beginning of our year.
 
-4. To begin working with our data, click on the orange "Sheet 1" rectangle toward the bottom left-hand corner of the application. This will create our first Tableau worksheet, a blank space for generating visualizations.
+4. To begin working with our data, click on the grey "Sheet 1" rectangle toward the bottom left-hand corner of the application. This will create our first Tableau worksheet, a blank space for generating visualizations.
 
 ![Button for New Worksheet](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/image/tableauNewWorksheet.png)
 
