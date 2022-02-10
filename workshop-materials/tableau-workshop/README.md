@@ -8,7 +8,7 @@ While Tableau runs locally, it saves publicly—meaning your data becomes public
 ## Example Project: Internet Users by Country
 To practice working in Tableau Public, download this [dataset of internet users per 100 people](https://raw.githubusercontent.com/YaleDHLab/humanities-data-mining/master/workshop-materials/tableau-workshop/data/internet-users.csv) by selecting "File" and "Save Page As..." Make sure that the file format saves as a comma separated value (CSV) file. This dataset was published by Tableau Public in 2018, but was originally published on [Knoema](https://knoema.com/WBINU2018/internet-users-per-100-people). The spreadsheet includes three variables or columns ("Country," "Internet users per 100 people," "Year") and 1,764 records or rows.
 
-As a sample research scenario, let's imagine that someone just handed us this data. To get a better feel for its quality and what questions we might ask of it, we can create a few exploratory visualizations in Tableau Public. [A completed copy](https://public.tableau.com/profile/catherine.derose#!/vizhome/YDataInternetUsers/dashboard) of the Tableau workbook we're about to create can be found on Tableau Public.
+As a sample research scenario, let's imagine that someone just handed us this data. To get a better feel for its quality and what questions we might ask of it, we can create a few exploratory visualizations in Tableau Public. [A completed copy](https://public.tableau.com/app/profile/peter.leonard6457/viz/YData2022InternetUsers/dashboard#1) of the Tableau workbook we're about to create can be found on Tableau Public.
 
 ### Set Up
 1. [Download, install, and then open Tableau Public](https://public.tableau.com/en-us/s/).
