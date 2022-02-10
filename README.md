@@ -27,10 +27,13 @@ In our second week, of class we will take a deeper dive into data--what it is, h
 ### Week Three: Data Visualization
 
 [**Tuesday Slides**](https://docs.google.com/presentation/d/17pd5CL-bfPI5da3igAc8fDlLh2KDbdynATUK-G1OQtg/edit?usp=sharing)<br/>
+[**Thursday Lab Tutorial**](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/README.md)
 **Readings**<br/>
 * Catherine D’Ignazio and Lauren Klein, “<a href="http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf">Feminist Data Visualization”</a>
 
 In our third week, we will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. For Thursday's lab, please download [Tableau Public](https://public.tableau.com/en-us/s/).
+
+<i>No problem set assigned this week -- Work on Project Review 1: Text Mining. You can find the prompt in Canvas under "Assignments."</i>
 
 ### Week Four: Text Analysis: Named Entity Recognition
 
