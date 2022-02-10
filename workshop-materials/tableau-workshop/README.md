@@ -46,7 +46,7 @@ Tableau is summing all values that correspond with an "Iceland" row, regardless 
 </details>
 5. Create the year filter by dragging "Year" to the "Filters" card. 
 - Select "Years" in the resulting pop-up box.
-- Click the "All" box.
+- Click the "Use all" box.
 - Click "Ok." It will look like nothing happened.
 - To set the filter, click on the dropdown by "YEAR(Year)," and select "Show Filter." This will show the filter settings in the right-hand column (you may have to click off "Show Me" to see it).
 - In the right-hand column, click the dropdown by "YEAR(Year)," and select "Single Value (list)" to filter one year at a time.</br>
