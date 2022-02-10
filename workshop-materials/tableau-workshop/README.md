@@ -40,10 +40,11 @@ With this dataset, we can see how internet adoption has changed by country over 
 3. Sort data from most to least by clicking the icon with the three stacked rectangles and downward arrow (it's located in our toolbar at the top of the sheet). 
 4. Question: if our dataset is internet users per 100 people, then why does Iceland show 708.8 users?
 <details><summary>Answer</summary>
-<p>
+
 Tableau is summing all values that correspond with an "Iceland" row, regardless of whether they record is for a different date. To see internet users per 100 people, we need to add a year filter.
-</p>
+
 </details>
+
 5. Create the year filter by dragging "Year" to the "Filters" card. 
 - Select "Years" in the resulting pop-up box.
 - Click the "Use all" box.
