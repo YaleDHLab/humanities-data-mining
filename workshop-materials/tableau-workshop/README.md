@@ -77,7 +77,7 @@ In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the m
 1. Start a new sheet.
 2. Double-click on the "Country" pill, which will automatically generate a map.
 3. Click to turn on "Show Me" and select the second map, which we will use to generate a choropleth map.
-4. Notice that not all countries are filled in on the map. Click on "3 unknown" in the lower right-hand corner of the map to give Tableau a mapping between country names as they appear in our dataset, and country names that Tableau knows. 
+4. Notice that not all countries are filled in on the map. Click on "2 unknown" in the lower right-hand corner of the map to give Tableau a mapping between country names as they appear in our dataset, and country names that Tableau knows. 
 - Dem. People's Rep. Korea to North Korea,
 - Dem. Rep. Congo to Democratic Republic of Congo,
 - Korea to South Korea.
