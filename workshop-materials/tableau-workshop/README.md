@@ -65,7 +65,7 @@ In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the m
 ### Line Graph: Change over Time
 1. Start a new sheet by clicking the icon next to our current sheet.
 2. Double click on "Year" (this should add it to the "Columns" section)
-3. Double click on "Internet users" (this should add it to the "Rows" section)
+3. Double click on "Internet users per 100 people" (this should add it to the "Rows" section)
 4. Drag "Country" to the "Color" mark - note the warning cautioning against the use of color for more than 20 records. To see what happens, click "Add all members." While the resulting line graph shows an overall increase in the number of users, it's difficult to track individual changes and differentiate colors. Click the back arrow in the top-left corner to undo.
 5. Drag "Country" to the "Color" mark again, but this time, click "Filter and then add." Choose countries of interest (you might choose the same countries from the bar chart or new ones you want to highlight). To ensure colors can be easily distinguished, don't choose over 10 countries.
 6. Change line colors by clicking on the dropdown next to "Country" in the right-hand column. Select a palette from the dropdown, or double click on the color next to an individual country's name to change it. When you have colors you like, click "Assign Palette" to see what they look like on the graph. Then click "Ok." 
