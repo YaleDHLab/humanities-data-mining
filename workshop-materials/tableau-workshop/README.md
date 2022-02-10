@@ -52,10 +52,11 @@ Tableau is summing all values that correspond with an "Iceland" row, regardless 
 - In the right-hand column, click the dropdown by "YEAR(Year)," and select "Single Value (list)" to filter one year at a time.</br>
 6. We can now answer our starting questions. Which 5 countries had the most internet users per 100 people in 1990? Which 5 countries had the most in 2015?
 <details><summary>Answer</summary>
-<p>
+
 In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the most internet users per 100 people. By 2015, the top 5 changed to: Iceland, Luxembourg, Andorra, Norway, and Liechtenstein. Only Norway appears in the top 5 twice!
-</p>
+
 </details>
+
 7. If we want to focus only the top countries in terms of internet adoption, we can add a country filter by dragging "Country" to the "Filters" card. This time, select the countries of interest. If we'd like to compare greatest number of users in 1990 to 2015, we should select: the United States, Norway, Switzerland, Australia, Sweden, Iceland, Luxembourg, Andorra, and Liechtenstein. You can choose whichever countries are of interest to you!
 8. Give a title to the chart by double clicking on the current "Sheet 1" title and inserting "Internet Users per 100 People." You can also change the styling, if you want a different typeface or font.Click "Apply" to see what the title will look like. When you're finished, click "Ok."
 9. Change the "Sheet 1" name in the lower left-hand corner by double clicking on it and renaming it "bar chart."
