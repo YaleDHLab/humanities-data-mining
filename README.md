@@ -27,7 +27,7 @@ In our second week, of class we will take a deeper dive into data--what it is, h
 ### Week Three: Data Visualization
 
 [**Tuesday Slides**](https://docs.google.com/presentation/d/17pd5CL-bfPI5da3igAc8fDlLh2KDbdynATUK-G1OQtg/edit?usp=sharing)<br/>
-[**Thursday Lab Tutorial**](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/README.md)
+[**Thursday Lab Tutorial**](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/README.md)<br/>
 **Readings**<br/>
 * Catherine D’Ignazio and Lauren Klein, “<a href="http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf">Feminist Data Visualization”</a>
 
