@@ -26,16 +26,6 @@ For our dataset, we need to change the "Year" column from a numeric value to a d
 
 ![Button for New Worksheet](https://github.com/YaleDHLab/humanities-data-mining/blob/master/workshop-materials/tableau-workshop/image/tableauNewWorksheet.png)
 
-### Interface Changes
-Tableau version 2020.2 underwent major interface and functionality changes. You can read about all of the differences on [Tableau's website](https://help.tableau.com/current/pro/desktop/en-us/datasource_datamodel_whatschanged.htm). Below, I will describe the most notable differences you'll see from the main interface.
-
-#### Pre-2020.2 Tableau Versions
-- On the left-hand column, there is the "Data" pane that sorts our data into "Dimensions" (categorical data) and "Measures" (numeric data). Under "Measures," you will see that Tableau has also automatically generated two additional measures: "Number of Records" (number of rows in the dataset) and "Measure Values" (sum of all values). 
-
-#### Tableau Version 2020.2
-- On the left-hand column, Tableau now groups data as "Tables." While Tableau no longer explicitly calls out "Dimensions" and "Measures," there is a horizontal line that separates categorical and numeric data.
-- Tableau still generates two fields: "Measure Values" (sum of all values) and the previously named "Number of Records," which now takes the name of your file.
-
 #### Interface Interactions 
 Double-clicking or dragging any dimension or measure over to the "Columns" and "Rows" sections near the middle-top of the sheet will give you the opportunity to examine the data more closely. You can use the back arrow at the top left to undo actions.  
 - "Pages," "Filters," and "Marks" are where you will drag dimensions and measures in order to filter the data.
