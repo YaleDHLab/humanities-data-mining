@@ -113,7 +113,7 @@ To save your Tableau workbook, you have to create a free Tableau account. When y
 5. Add "Country" to the "Detail" mark.
 6. Go back to the "Rank" pill in "Rows" and change the data from "Continuous" to "Discrete."
 7. Drag "Internet users" to "Columns."
-8. Go back to the "Rank" pill in "Rows" and choose "Computer Using" -> "Country."
+8. Go back to the "Rank" pill in "Rows" and choose "Compute Using" -> "Country."
 9. Drag "Year" into the "Pages" section, which will activate the animation.
 10. To add country instead of ranking as the label: go to "Rank" and deselect "Show Header." Next, drag "Country" over the "Label" mark. To stylize the label, click on the "Label" mark - from here, you can change the "Label Appearance" (type, font) and "Alignment" (where the label appears).
 11. To add a color scheme, drag "Internet Users" over the "Color" mark. You can more precisely adjust the colors by clicking on the dropdown beside "Internet Users" in the right-hand column.
