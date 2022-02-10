@@ -36,7 +36,7 @@ With this dataset, we can see how internet adoption has changed by country over 
 
 ### Bar Chart: Internet Adoption
 1. Drag "Country" to "Rows."
-2. Drag "Internet users" (not the measure Tableau generated, which is just counting the number of rows in our spreadsheet) to "Columns."
+2. Drag "Internet users per 100 people" (not the measure Tableau generated, which is just counting the number of rows in our spreadsheet) to "Columns."
 3. Sort data from most to least by clicking the icon with the three stacked rectangles and downward arrow (it's located in our toolbar at the top of the sheet). 
 4. Question: if our dataset is internet users per 100 people, then why does Iceland show 708.8 users?
 <details><summary>Answer</summary>
