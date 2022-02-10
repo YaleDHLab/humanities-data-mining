@@ -57,9 +57,9 @@ In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the m
 </p>
 </details>
 7. If we want to focus only the top countries in terms of internet adoption, we can add a country filter by dragging "Country" to the "Filters" card. This time, select the countries of interest. If we'd like to compare greatest number of users in 1990 to 2015, we should select: the United States, Norway, Switzerland, Australia, Sweden, Iceland, Luxembourg, Andorra, and Liechtenstein. You can choose whichever countries are of interest to you!
-8. 
-9. Give a title to the chart by double clicking on the current "Sheet 1" title and inserting "Internet Users per 100 People." You can also change the styling, if you want a different typeface or font.Click "Apply" to see what the title will look like. When you're finished, click "Ok."
-10. Change the "Sheet 1" name in the lower left-hand corner by double clicking on it and renaming it "bar chart."
+
+8. Give a title to the chart by double clicking on the current "Sheet 1" title and inserting "Internet Users per 100 People." You can also change the styling, if you want a different typeface or font.Click "Apply" to see what the title will look like. When you're finished, click "Ok."
+9. Change the "Sheet 1" name in the lower left-hand corner by double clicking on it and renaming it "bar chart."
 
 ### Line Graph: Change over Time
 1. Start a new sheet by clicking the icon next to our current sheet.
