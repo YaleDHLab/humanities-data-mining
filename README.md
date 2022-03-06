@@ -38,19 +38,34 @@ In our third week, we will consider strategies and best practices for visualizin
 ### Week Four: Text Analysis: Named Entity Recognition
 
 In our fourth week, we will begin turning our attention to text analysis in more detail. In particular, we will experiment with an approach called named entity recognition, which can help us extract entities (names, locations, organizations) from text.
+**Readings**<br/>
+<ul>
+    <li>Richard Jean So, &ldquo;<a class="inline_disabled" href="https://www.cambridge.org/core/journals/pmla/article/all-models-are-wrong/0AFE2CEA7F036769916EC819BFCD8E6E#" target="_blank" rel="noopener">All Models are Wrong</a>&rdquo;</li>
+    <li>Jean Baptiste-Michel et al. &ldquo;<a class="inline_disabled" href="https://www.science.org/doi/10.1126/science.1199644" target="_blank" rel="noopener">Quantitative Analysis of Culture Using Millions of Digitized Books</a>&rdquo;</li>
+</ul>
 
 ### Week Five: Clustering and Classification
 
 In our fifth week, we will explore supervised methods for classifying and clustering data using Python. We will consider when such approaches could be helpful, as well as what the limitations are and what kind of data we need to have.
+**Readings**<br/>
+<ul>
+    <li>Patrick Juola, &ldquo;<a class="inline_disabled" href="https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/" target="_blank" rel="noopener">How a Computer Program Helped Show J.K. Rowling write <em>A Cuckoo&rsquo;s Calling</em></a>&rdquo; [sic]</li>
+    <li>Franco Moretti, "<a class="inline_disabled" href="https://muse.jhu.edu/article/22852" target="_blank" rel="noopener">The Slaughterhouse of Literature</a>" [on-campus network or <a class="inline_disabled" href="https://ask.library.yale.edu/faq/174875" target="_blank" rel="noopener">VPN</a> required]</li>
+</ul>
 
 ### Week Six: Review and Topic Modeling 
 
 In our sixth week, we will review several of the programming topics we have covered so far in the semester, and we'll explore a few new topics that will prove useful as we continue our data science work in the coming weeks. We will learn about topic modeling by looking at case studies and experimenting with model parameters. The particular approach we'll be using is called non-negative matrix factorization (NMF), which like the classifier we trained in week five, starts with a Term-Document Matrix.
+**Readings**<br/>
+<ul>
+    <li>Underwood, Ted. "<a class="inline_disabled" href="https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/" target="_blank" rel="noopener">Topic Modeling Made Just Simple Enough</a>"</li>
+    <li>Blevins, Cameron. "<a class="inline_disabled" href="https://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/" target="_blank" rel="noopener">Topic Modeling Martha Ballard's Diary</a>"</li>
+</ul>
 
 ### Week Seven: Text & Image Analysis: Neural Networks
 
 In our seventh week, we will begin our transition from text mining to image mining techniques by way of neural networks. On Thursday, we will focus on word embeddings, a technique for identifying words that appear in similar contexts.
-
+**Readings**<br/>
 <ul>
     <li>Gideon Lewis-Kraus, &ldquo;<a class="inline_disabled" href="https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html" target="_blank" rel="noopener">The Great A.I. Awakening</a>&rdquo;</li>
     <li>Jonathan Fitzgerald, &ldquo;<a class="inline_disabled" href="https://cssh.northeastern.edu/nulab/word-embedding-models-new-topic-models/" target="_blank" rel="noopener">Word Embeddings are the New Topic Models</a>&rdquo;</li>
