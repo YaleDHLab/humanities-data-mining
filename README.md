@@ -51,6 +51,11 @@ In our sixth week, we will review several of the programming topics we have cove
 
 In our seventh week, we will begin our transition from text mining to image mining techniques by way of neural networks. On Thursday, we will focus on word embeddings, a technique for identifying words that appear in similar contexts.
 
+<ul>
+    <li>Gideon Lewis-Kraus, &ldquo;<a class="inline_disabled" href="https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html" target="_blank" rel="noopener">The Great A.I. Awakening</a>&rdquo;</li>
+    <li>Jonathan Fitzgerald, &ldquo;<a class="inline_disabled" href="https://cssh.northeastern.edu/nulab/word-embedding-models-new-topic-models/" target="_blank" rel="noopener">Word Embeddings are the New Topic Models</a>&rdquo;</li>
+</ul>
+
 ### Week Eight: Computer Vision: Color & Art 
 
 In our eighth week, we will start looking more closely at image mining, with an overview of projects, techniques, and data considerations. For hands-on practice, we will experiment with color extraction.
