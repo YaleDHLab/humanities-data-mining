@@ -88,6 +88,7 @@ In our eleventh week, we will look at methods for video (or moving image) analys
 **[Tuesday Slides](https://docs.google.com/presentation/d/1B1w3gLd_27xebM43urhVlI8-XaKOwqtBvYBH-05lREY/edit?usp=sharing)**<br>
 **Tuesday Notebook**
 * [Distant Viewing Toolkit (DVT) Demo](https://colab.research.google.com/drive/1gRUI8LRtCUpCfglTHNsPwx4e_NoUBSSU?usp=sharing)<br>
+
 **Tuesday Readings**
 * [Distant viewing: analyzing large visual corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340)
 * Optional: [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
