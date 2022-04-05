@@ -81,6 +81,23 @@ In our eighth week, we will start looking more closely at image mining, with an 
 
 In our tenth week, we will be discussing techniques for measuring and identifying image similarity. In particular, we will focus on Convolutional Neural Networks as our approach.
 
+**Tuesday Readings:**
+
+* [The visual digital turn: Using neural networks to study historical images](https://academic.oup.com/dsh/article/35/1/194/5296356)
+
+**[Tuesday Slides](https://docs.google.com/presentation/d/1BF7USpA4xqZ2zoLSkywJ7CvaF2nakILTvm8uITBeLeI/edit?usp=sharing)**
+
+**Tuesday In-Class Links:**
+
+* [Lyrics Text Comparison](https://colab.research.google.com/drive/1ImjzOLnxxfM0qcjD8K1rOugkJziGUzZz?usp=sharing)
+* [Image Similarity Ordering](https://cderose.github.io/image-similarity/)
+* [Neural Neighbors](https://dhlab.yale.edu/neural-neighbors/) (Meserve-Kunhardt Collection)
+
+**Thursday Notebooks:**
+
+* [Image Similarity](https://colab.research.google.com/drive/1nI-7QOaWgepRDBcATIe6EylsYvibZg9j?usp=sharing)
+* [Building PixPlot Visualizations with your own images](https://colab.research.google.com/drive/1eQg6yAXUDM_XdS5E1PmZ5J_BhJBclEhi?usp=sharing)
+
 ### Week 11: Image, Video and Music Analaysis
 
 In our eleventh week, we will look at methods for video (or moving image) analysis and consider when, why, and how we might go about it. As a capstone to our image analysis module, we will use the [Distant Viewing Toolkit](https://github.com/distant-viewing/dvt). We'll also explore classifing sound files according to musical genre with guest lecturer Nicole Cosme (Yale Music Department).
