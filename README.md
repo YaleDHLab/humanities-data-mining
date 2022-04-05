@@ -37,7 +37,13 @@ In our third week, we will consider strategies and best practices for visualizin
 
 ### Week Four: Text Analysis: Named Entity Recognition
 
-In our fourth week, we will begin turning our attention to text analysis in more detail. In particular, we will experiment with an approach called named entity recognition, which can help us extract entities (names, locations, organizations) from text.
+In our fourth week, we will begin turning our attention to text analysis in more detail. In particular, we will experiment with an approach called named entity recognition, which can help us extract entities (names, locations, organizations) from text.'
+
+**[Tuesday Slides](https://docs.google.com/presentation/d/1H_A8Swrl0uUgelx5DQKvuTJ_WL2EB_j7I54xMuqmf8o/edit?usp=sharing)**
+
+**[Thursday Notebook](https://colab.research.google.com/drive/1qR2jj3gkol-LG_jXDS3lqCD3FbmcQM8r?usp=sharing)**
+
+
 **Readings**<br/>
 <ul>
     <li>Richard Jean So, &ldquo;<a class="inline_disabled" href="https://www.cambridge.org/core/journals/pmla/article/all-models-are-wrong/0AFE2CEA7F036769916EC819BFCD8E6E#" target="_blank" rel="noopener">All Models are Wrong</a>&rdquo;</li>
