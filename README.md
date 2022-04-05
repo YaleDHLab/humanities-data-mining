@@ -47,6 +47,13 @@ In our fourth week, we will begin turning our attention to text analysis in more
 ### Week Five: Clustering and Classification
 
 In our fifth week, we will explore supervised methods for classifying and clustering data using Python. We will consider when such approaches could be helpful, as well as what the limitations are and what kind of data we need to have.
+
+**[Tuesday Slides](https://docs.google.com/presentation/d/1--xcVylX4KPdiLe3j3-6tqkGg5dxmtc8cMZdEeeUKcw/edit?usp=sharing)**
+
+**[Thursday Notebook](https://colab.research.google.com/drive/1evZDURv8s7-TGNsS24kQLJVkWRnzFtGp?usp=sharing)**
+
+**[Thursday Problem Set](https://colab.research.google.com/drive/1uxEknnJQNivRiJhEh67MxQfZCNtsiAxh?usp=sharing)**
+
 **Readings**<br/>
 <ul>
     <li>Patrick Juola, &ldquo;<a class="inline_disabled" href="https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/" target="_blank" rel="noopener">How a Computer Program Helped Show J.K. Rowling write <em>A Cuckoo&rsquo;s Calling</em></a>&rdquo; [sic]</li>
