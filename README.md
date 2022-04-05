@@ -75,6 +75,18 @@ In our seventh week, we will begin our transition from text mining to image mini
 
 In our eighth week, we will start looking more closely at image mining, with an overview of projects, techniques, and data considerations. For hands-on practice, we will experiment with color extraction.
 
+**[Tuesday Slides](https://docs.google.com/presentation/d/1JS28si7_P9FSWN8ybp5XogCPR6sZfINVu2lIVq2KWN8/edit?usp=sharing)**
+
+**Tuesday Readings**:
+
+* [The True Colors of America’s Political Spectrum Are Gray and Green](https://www.nytimes.com/interactive/2020/09/02/upshot/america-political-spectrum.html)
+
+**Thursday Notebooks and links**:
+
+* [Color Analysis in Python](https://colab.research.google.com/drive/1MH-qZfIG30qRFUxWP7IZw4AQDFGtgy3w?usp=sharing)
+* [Visualizing Colors in RGB Space](https://colab.research.google.com/drive/1Z7N_GD3PIDa2Ta2Ae7l2VmvON9FtXVma?usp=sharing)
+* [Visualizing clustering in HSV space](http://dh.library.yale.edu/projects/vogue/colorcluster.html)
+
 ### Week Nine: Spring Recess
 
 ### Week 10: Visual Similarity
