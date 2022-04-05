@@ -86,7 +86,7 @@ In our tenth week, we will be discussing techniques for measuring and identifyin
 In our eleventh week, we will look at methods for video (or moving image) analysis and consider when, why, and how we might go about it. As a capstone to our image analysis module, we will use the [Distant Viewing Toolkit](https://github.com/distant-viewing/dvt). We'll also explore classifing sound files according to musical genre with guest lecturer Nicole Cosme (Yale Music Department).
 
 **[Tuesday Slides](https://docs.google.com/presentation/d/1B1w3gLd_27xebM43urhVlI8-XaKOwqtBvYBH-05lREY/edit?usp=sharing)**
-**[Tuesday Notebook**[
+**Tuesday Notebook**
 * [Distant Viewing Toolkit (DVT) Demo](https://colab.research.google.com/drive/1gRUI8LRtCUpCfglTHNsPwx4e_NoUBSSU?usp=sharing)
 **[Tuesday Readings**[
 * [Distant viewing: analyzing large visual corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340)
