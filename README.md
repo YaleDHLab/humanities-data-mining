@@ -56,6 +56,7 @@ In our fifth week, we will explore supervised methods for classifying and cluste
 ### Week Six: Review and Topic Modeling 
 
 In our sixth week, we will review several of the programming topics we have covered so far in the semester, and we'll explore a few new topics that will prove useful as we continue our data science work in the coming weeks. We will learn about topic modeling by looking at case studies and experimenting with model parameters. The particular approach we'll be using is called non-negative matrix factorization (NMF), which like the classifier we trained in week five, starts with a Term-Document Matrix.
+
 **Readings**<br/>
 <ul>
     <li>Underwood, Ted. "<a class="inline_disabled" href="https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/" target="_blank" rel="noopener">Topic Modeling Made Just Simple Enough</a>"</li>
@@ -65,11 +66,20 @@ In our sixth week, we will review several of the programming topics we have cove
 ### Week Seven: Text & Image Analysis: Neural Networks
 
 In our seventh week, we will begin our transition from text mining to image mining techniques by way of neural networks. On Thursday, we will focus on word embeddings, a technique for identifying words that appear in similar contexts.
+
+**[Tuesday Slides](https://docs.google.com/presentation/d/1wj-5EjLEMRg7boOlrXB9TSOwMmjw0WNryyz_phBN4VI/edit?usp=sharing)**
+
 **Readings**<br/>
 <ul>
     <li>Gideon Lewis-Kraus, &ldquo;<a class="inline_disabled" href="https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html" target="_blank" rel="noopener">The Great A.I. Awakening</a>&rdquo;</li>
     <li>Jonathan Fitzgerald, &ldquo;<a class="inline_disabled" href="https://cssh.northeastern.edu/nulab/word-embedding-models-new-topic-models/" target="_blank" rel="noopener">Word Embeddings are the New Topic Models</a>&rdquo;</li>
+    <li>Optional: Ryan Heuser, "[Word Vectors in the Eighteenth Century](https://ryanheuser.org/word-vectors/)"</li>
+    <li>Optional: Ben Schmidt, "[Vector Space Models for the Digital Humanities](http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html)"</li>
 </ul>
+
+**[Thursday Notebook](https://colab.research.google.com/drive/1tGrSqgTyE1heKZuWxifPi-lHvjfeBYdr?usp=sharing)**
+
+**[Thursday Problem Set](https://colab.research.google.com/drive/15qeboVR-U51Hk_F27Aua-MpwVmEQjuhf?usp=sharing)**
 
 ### Week Eight: Computer Vision: Color & Art 
 
