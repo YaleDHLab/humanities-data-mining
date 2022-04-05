@@ -73,8 +73,8 @@ In our seventh week, we will begin our transition from text mining to image mini
 <ul>
     <li>Gideon Lewis-Kraus, &ldquo;<a class="inline_disabled" href="https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html" target="_blank" rel="noopener">The Great A.I. Awakening</a>&rdquo;</li>
     <li>Jonathan Fitzgerald, &ldquo;<a class="inline_disabled" href="https://cssh.northeastern.edu/nulab/word-embedding-models-new-topic-models/" target="_blank" rel="noopener">Word Embeddings are the New Topic Models</a>&rdquo;</li>
-    <li>Optional: Ryan Heuser, "[Word Vectors in the Eighteenth Century](https://ryanheuser.org/word-vectors/)"</li>
-    <li>Optional: Ben Schmidt, "[Vector Space Models for the Digital Humanities](http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html)"</li>
+    <li>Optional: Ryan Heuser, &ldquo;<a href="https://ryanheuser.org/word-vectors/)">Word Vectors in the Eighteenth Century</a>&rdquo;<li>
+    <li>Optional: Ben Schmidt, &ldquo;<a href="http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html">Vector Space Models for the Digital Humanities</a>&rdquo;</li>
 </ul>
 
 **[Thursday Notebook](https://colab.research.google.com/drive/1tGrSqgTyE1heKZuWxifPi-lHvjfeBYdr?usp=sharing)**
