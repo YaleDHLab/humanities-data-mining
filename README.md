@@ -81,9 +81,16 @@ In our eighth week, we will start looking more closely at image mining, with an 
 
 In our tenth week, we will be discussing techniques for measuring and identifying image similarity. In particular, we will focus on Convolutional Neural Networks as our approach.
 
-### Week 11: Video Analaysis
+### Week 11: Image, Video and Music Analaysis
 
-In our eleventh week, we will look at methods for video (or moving image) analysis and consider when, why, and how we might go about it. As a capstone to our image analysis module, we will learn how to train two neural networks for computer vision tasks: autoencoders and Recurrent Neural Networks.
+In our eleventh week, we will look at methods for video (or moving image) analysis and consider when, why, and how we might go about it. As a capstone to our image analysis module, we will use the [Distant Viewing Toolkit](https://github.com/distant-viewing/dvt). We'll also explore classifing sound files according to musical genre with guest lecturer Nicole Cosme (Yale Music Department).
+
+[Tuesday Slides](https://docs.google.com/presentation/d/1B1w3gLd_27xebM43urhVlI8-XaKOwqtBvYBH-05lREY/edit?usp=sharing)
+Tuesday Notebook:
+* [Distant Viewing Toolkit (DVT) Demo](https://colab.research.google.com/drive/1gRUI8LRtCUpCfglTHNsPwx4e_NoUBSSU?usp=sharing)
+Tuesday Readings:
+* [Distant viewing: analyzing large visual corpora](https://academic.oup.com/dsh/article/34/Supplement_1/i3/5694340)
+* Optional: [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 
 ### Week 12: Open Lab 1, Finding and Preparing Data
 
